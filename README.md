@@ -63,7 +63,8 @@ If this privacy policy ever changes, the updated version will be published in th
 If you have any questions about this privacy policy or the privacy practices of The Climbing Journal, please contact:
 
 **Email:** warren.wan@goshopdevelopment.ca
-
 ---
+
+[Support Page](SUPPORT.md)
 
 *The Climbing Journal is built by a psyched rock climber in Squamish. Your data is yours — and only yours.*
