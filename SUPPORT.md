@@ -28,23 +28,15 @@ No. There are no accounts, sign-ins, or email addresses required. Just download 
 
 Yes — completely. You can log sessions at the crag, in the gym, or deep in the backcountry with no internet connection.
 
-### How do I restore my purchase?
-
-If you've unlocked the app's premium features and switched devices, reinstalled, or restored your phone, open:
-
-**Settings → Restore Purchases**
-
-Your unlock is tied to your Apple ID and will be restored at no additional cost.
-
 ### I reinstalled the app / switched phones — where did my data go?
 
 Because your data is stored **only on your device** for privacy, it is **not** automatically backed up to the cloud. If you delete the app or move to a new device, your logged data does not transfer automatically.
 
-We recommend keeping a **device backup (iCloud or iTunes/Finder)** enabled, which includes the app's local data, so you can restore it if needed.
+We recommend backing up your data to **iCloud** at a regular frequency, so you can restore it if needed.
 
 ### Which grading systems are supported?
 
-The Climber's Journal supports **YDS**, **V-scale**, **French**, and **Font** grading systems across sport, boulder, top-rope, trad, and deep-water solo disciplines.
+The Climber's Journal supports **YDS**, **V-scale**, **French**, and **Font** grading systems across sport, boulder, top-rope, tradidional, and deep-water solo disciplines.
 
 ### How do I report a bug or request a feature?
 
@@ -52,4 +44,4 @@ Email **warren.wan@goshopdevelopment.ca** with a short description. Screenshots 
 
 ---
 
-*The Climber's Journal is built by a psyched rock climber in Squamish. Your data is yours — and only yours.*
+*The Climber's Journal is built by a psyched rock climber in Squamish. Your data is yours - and only yours.*
