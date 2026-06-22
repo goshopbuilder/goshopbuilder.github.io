@@ -1,8 +1,7 @@
 # Privacy Policy
 
-**Effective Date:** May 8, 2026
-
-**App:** The Climber's Journal
+**Effective Date:** June 22, 2026
+**App:** The Climbing Journal
 
 ## Overview
 
@@ -27,11 +26,19 @@ All data you enter into the app — including climbing sessions, training logs, 
 
 You retain full ownership and control of your data at all times.
 
+## Route Data
+
+The app lets you browse and import climbing route libraries from [OpenBeta](https://openbeta.io/).
+
+**Route Data:** We do not collect or store the climbing routes you download. Route data is downloaded directly to your device and processed locally. We do not have visibility into which specific routes or areas you have downloaded.
+
 ## Advertising
 
 The Climbing Journal contains **no advertising** of any kind. We do not display ads, work with ad networks, or use any advertising identifiers.
 
 ## Third-Party Services
+
+To deliver route libraries for import, The Climbing Journal uses a proprietary API that hosts climbing route data sourced from [OpenBeta](https://openbeta.io/). That route data is stored on AWS S3 and served through our API so you can browse areas and download routes into the app.
 
 The Climbing Journal does **not** use any third-party analytics, tracking, crash reporting, or telemetry services. There are no SDKs in the app that collect or transmit data on our behalf.
 
@@ -63,8 +70,7 @@ If this privacy policy ever changes, the updated version will be published in th
 If you have any questions about this privacy policy or the privacy practices of The Climbing Journal, please contact:
 
 **Email:** warren.wan@goshopdevelopment.ca
----
 
-[Support Page](SUPPORT.md)
+---
 
 *The Climbing Journal is built by a psyched rock climber in Squamish. Your data is yours — and only yours.*
