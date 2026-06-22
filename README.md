@@ -1,11 +1,11 @@
 # Privacy Policy
 
 **Effective Date:** June 22, 2026
-**App:** The Climbing Journal
+**App:** The Climber's Journal
 
 ## Overview
 
-The Climbing Journal ("the app", "we", "our") is designed with your privacy as a top priority. This privacy policy explains what information the app does — and does not — collect when you use it.
+The Climber's Journal ("the app", "we", "our") is designed with your privacy as a top priority. This privacy policy explains what information the app does — and does not — collect when you use it.
 
 **In short: we do not collect, store, transmit, or share any of your personal information.**
 
@@ -13,7 +13,7 @@ The Climbing Journal ("the app", "we", "our") is designed with your privacy as a
 
 **None.**
 
-The Climbing Journal does not collect any personal information, usage data, analytics, diagnostics, or identifiers from you or your device. We do not require you to create an account, sign in, or provide an email address to use the app.
+The Climber's Journal does not collect any personal information, usage data, analytics, diagnostics, or identifiers from you or your device. We do not require you to create an account, sign in, or provide an email address to use the app.
 
 ## Information You Create
 
@@ -34,21 +34,21 @@ The app lets you browse and import climbing route libraries from [OpenBeta](http
 
 ## Advertising
 
-The Climbing Journal contains **no advertising** of any kind. We do not display ads, work with ad networks, or use any advertising identifiers.
+The Climber's Journal contains **no advertising** of any kind. We do not display ads, work with ad networks, or use any advertising identifiers.
 
 ## Third-Party Services
 
-To deliver route libraries for import, The Climbing Journal uses a proprietary API that hosts climbing route data sourced from [OpenBeta](https://openbeta.io/). That route data is stored on AWS S3 and served through our API so you can browse areas and download routes into the app.
+To deliver route libraries for import, The Climber's Journal uses a proprietary API that hosts climbing route data sourced from [OpenBeta](https://openbeta.io/). That route data is stored on AWS S3 and served through our API so you can browse areas and download routes into the app.
 
-The Climbing Journal does **not** use any third-party analytics, tracking, crash reporting, or telemetry services. There are no SDKs in the app that collect or transmit data on our behalf.
+The Climber's Journal does **not** use any third-party analytics, tracking, crash reporting, or telemetry services. There are no SDKs in the app that collect or transmit data on our behalf.
 
 ## Tracking
 
-The Climbing Journal does **not** track you across apps or websites. The app does not access your device's advertising identifier (IDFA) or any other tracking identifier.
+The Climber's Journal does **not** track you across apps or websites. The app does not access your device's advertising identifier (IDFA) or any other tracking identifier.
 
 ## Children's Privacy
 
-Because the app collects no information from anyone, it collects no information from children. The Climbing Journal is safe for users of all ages.
+Because the app collects no information from anyone, it collects no information from children. The Climber's Journal is safe for users of all ages.
 
 ## Data Backup
 
@@ -67,10 +67,10 @@ If this privacy policy ever changes, the updated version will be published in th
 
 ## Contact
 
-If you have any questions about this privacy policy or the privacy practices of The Climbing Journal, please contact:
+If you have any questions about this privacy policy or the privacy practices of The Climber's Journal, please contact:
 
 **Email:** warren.wan@goshopdevelopment.ca
 
 ---
 
-*The Climbing Journal is built by a psyched rock climber in Squamish. Your data is yours — and only yours.*
+*The Climber's Journal is built by a psyched rock climber in Squamish. Your data is yours — and only yours.*
