@@ -40,6 +40,8 @@ The Climber's Journal contains **no advertising** of any kind. We do not display
 
 To deliver route libraries for import, The Climber's Journal uses a proprietary API that hosts climbing route data sourced from [OpenBeta](https://openbeta.io/). That route data is stored on AWS S3 and served through our API so you can browse areas and download routes into the app.
 
+When you browse or download route libraries, the app communicates with our API to retrieve route data. We do not receive your personal information, account details, climbing logs, or device identifiers as part of these requests.
+
 The Climber's Journal does **not** use any third-party analytics, tracking, crash reporting, or telemetry services. There are no SDKs in the app that collect or transmit data on our behalf.
 
 ## Tracking
